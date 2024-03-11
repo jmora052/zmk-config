@@ -24,7 +24,7 @@
 
         Backspace {
             bindings = <&kp BACKSPACE>;
-            key-positions = <20>;
+            key-positions = <20 19>;
         };
 
         Super-backspace {
